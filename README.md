@@ -3,6 +3,8 @@
 We have used a used car price dataset, visualized it, and checked it for price prediction purposes.
 
 ## Process
+![image](https://github.com/Prayag-Chawla/Used-Car-Price-Prediction/assets/92213377/16e9e334-f431-4313-bad8-854c0ee6bc98)
+
 
 ## VIF and multicollinearity
 Multicollinearity occurs when two or more independent variables in a data frame have a high correlation with one another in a regression model.
@@ -54,8 +56,17 @@ from sklearn.metrics import r2_score,mean_absolute_error,mean_squared_error
 
 ## Accuracy
 
+![image](https://github.com/Prayag-Chawla/Used-Car-Price-Prediction/assets/92213377/aeade409-6587-464f-a876-30d30b6adb51)
 
 
+## Output
+
+![image](https://github.com/Prayag-Chawla/Used-Car-Price-Prediction/assets/92213377/dbc6fb0a-fb6c-49d1-9506-6c0f9faefba9)
+![image](https://github.com/Prayag-Chawla/Used-Car-Price-Prediction/assets/92213377/1fcac491-577d-411f-8d83-286786b689b8)
+![image](https://github.com/Prayag-Chawla/Used-Car-Price-Prediction/assets/92213377/85cd33a7-8e49-47c2-99bb-951708ce7f33)
+
+## Final Prediction Report
+![image](https://github.com/Prayag-Chawla/Used-Car-Price-Prediction/assets/92213377/dfbd1c9f-a1bb-41e6-8168-ea3052212ba3)
 
 
 
@@ -99,7 +110,6 @@ https://www.kaggle.com/code/chloe912/used-cars-prediction
 ## Tech Stack
 
 **Client:** Python, Machine Learning, Rgression analysis, ML modelling, working on a csv file, XGB regresser, gradient boost regresser
-
 
 
 ## Feedback
