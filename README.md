@@ -75,7 +75,7 @@ from sklearn.metrics import r2_score,mean_absolute_error,mean_squared_error
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone [https://link-to-project](https://github.com/Prayag-Chawla/Used-Car-Price-Prediction)
 ```
 
 Go to the project directory
@@ -99,8 +99,8 @@ Start the server
 
 ## Used By
 The project is used by various automobile companies to check and scan for the market and to deal with various stakeholders, and is even helpful for customers in every strata.
-## Appendix
 
+## Appendix
 A very crucial project in the realm of data science and sentiment analyss using visualization techniques as well as machine learning modelling.
 
 ## Acknowledgements
