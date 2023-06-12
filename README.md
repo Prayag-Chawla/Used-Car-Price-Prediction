@@ -75,7 +75,7 @@ from sklearn.metrics import r2_score,mean_absolute_error,mean_squared_error
 Clone the project
 
 ```bash
-  git clone [https://link-to-project](https://github.com/Prayag-Chawla/Used-Car-Price-Prediction)
+  git clone [https://github.com/Prayag-Chawla/Used-Car-Price-Prediction]
 ```
 
 Go to the project directory
